@@ -10,9 +10,6 @@ body {
 	color: #2d3c49;
 }
 
-h2 {
-	margin: 0;
-}
 
 /*
 *
@@ -21,7 +18,7 @@ h2 {
 */
 
 .header-logo {
-	height: 54px;
+	height: 70px;
 
 }
 
@@ -29,12 +26,6 @@ h2 {
 .header-subtitle {
 	margin-top: 0;
 	margin-bottom: 0;
-}
-
-.header-title,
-.header-subtitle,
-.featured-work {
-	font-weight: lighter;
 }
 
 .header-title {
@@ -46,12 +37,6 @@ h2 {
 	text-align: end;
 	font-size: 28px;
 }
-
-/*
-*
-*PROJECT SECTION
-*
-*/
 
 .section-title {
 	font-size: 32px;
